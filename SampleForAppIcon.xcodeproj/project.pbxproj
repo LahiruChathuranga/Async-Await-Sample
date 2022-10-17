@@ -108,7 +108,7 @@
 			isa = PBXGroup;
 			children = (
 				84F3C7F528FD021000296DA2 /* Services */,
-				84F3C7F228FD018200296DA2 /* Endppoints */,
+				84F3C7F228FD018200296DA2 /* Endpoints */,
 				84F3C7EC28FC526E00296DA2 /* Endpoint.swift */,
 				84F3C7EE28FC535A00296DA2 /* RequestError.swift */,
 				84F3C7F028FC537F00296DA2 /* HTTPClient.swift */,
@@ -116,12 +116,12 @@
 			path = NetworkLayer;
 			sourceTree = "<group>";
 		};
-		84F3C7F228FD018200296DA2 /* Endppoints */ = {
+		84F3C7F228FD018200296DA2 /* Endpoints */ = {
 			isa = PBXGroup;
 			children = (
 				84F3C7F328FD019800296DA2 /* MoviesEndPoint.swift */,
 			);
-			path = Endppoints;
+			path = Endpoints;
 			sourceTree = "<group>";
 		};
 		84F3C7F528FD021000296DA2 /* Services */ = {
