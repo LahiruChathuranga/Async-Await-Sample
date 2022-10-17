@@ -1,0 +1,6 @@
+framework module Pods_SampleForAppIcon {
+  umbrella header "Pods-SampleForAppIcon-umbrella.h"
+
+  export *
+  module * { export * }
+}
